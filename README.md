@@ -29,8 +29,11 @@ Open the project in Visual Studio.
 
 Build the project to ensure all dependencies are resolved.
 
+# OpenCV setup in visual studio 
+visit this video for openCV setup
+https://www.youtube.com/watch?v=trXs2r6xSnI
 
-Usage
+# Usage
 Connect your Android device to your computer and enable USB debugging.
 
 # Run this in windows terminal or cmd before running project
